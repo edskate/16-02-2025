@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\EdY\\Documents\\GitHub\\16-02-2025\\16-02-2025",
+			"problemMatcher": [],
+			"label": "Live Preview: Executar Servidor"
+		}
+	]
+}
